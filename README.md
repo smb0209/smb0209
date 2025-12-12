@@ -19,7 +19,7 @@ Full-stack Web Developer with 7+ years of experience building scalable, secure, 
 **PROFESSIONAL EXPERIENCE**
 
 **Full Stack Engineer**  
-*ITCUVE, Korea | Nov 2022 – Present*  
+*ITCUVE, Korea | Nov 2022 – Jun 2025*  
 - Developed and maintained full-stack applications using Java, Spring Boot, Laravel, React.js, and Next.js
 - Built a custom CMS to streamline website creation and content management
 - Designed internal automation tools that reduced manual tasks by 40%
