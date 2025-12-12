@@ -78,7 +78,3 @@ Bachelor’s in Computer Engineering, Academic Credit Bank System (Korea)
 
 ---
 
-**LANGUAGES**  
-English – Proficient (Preparing for CELPIP CLB 9)  
-Korean – Native
-
