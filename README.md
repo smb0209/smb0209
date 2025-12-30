@@ -83,14 +83,12 @@ Recently focusing on designing, building, and publishing reusable React Native U
 ---
 
 **EDUCATION**  
-Bachelor’s in Computer Engineering, Academic Credit Bank System (Korea)
+Bachelor’s in Computer Engineering
 
 ---
 
 **CERTIFICATIONS**  
-- AWS Essential Training for Developers  
 - Industrial Engineer Information Processing  
-- React Essential Training  
 - Network Administrator (2nd Grade, Korea)
 
 ---
