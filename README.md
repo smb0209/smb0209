@@ -1,18 +1,35 @@
-**Minbong Seo**  
-dev.minbong@gmail.com | https://www.linkedin.com/in/minbongseo | Calgary, AB (Open Work Permit)
+## Minbong Seo
+
+Full-stack Web Developer (Java / Spring / React)  
+npm package author · React Native UI components  
+Calgary, AB · Open Work Permit  
+
+🔗 LinkedIn: https://www.linkedin.com/in/minbongseo  
+📧 Email: dev.minbong@gmail.com
 
 ---
 
-**SUMMARY**  
-Full-stack Web Developer with 7+ years of experience building scalable, secure, and high-performing applications using Java, Spring Boot, Laravel, React, and modern DevOps tools. Known for fast learning, structured problem-solving, and cross-functional collaboration. Seeking to bring full-stack expertise to a dynamic team in Alberta.
+### SUMMARY
+
+Full-stack Web Developer with 7+ years of experience building scalable, secure, and high‑performing applications using Java, Spring Boot, Laravel, React, and modern DevOps tools.  
+Recently focusing on designing, building, and publishing reusable React Native UI components as npm packages.
 
 ---
 
 **TECHNICAL SKILLS**
 
 **Backend**: Java, Spring, Spring Boot, PHP (Laravel), MySQL, MSSQL, Oracle, SQL Optimization, REST API, OAuth2  
-**Frontend**: React.js, Next.js, JavaScript, TypeScript, HTML, CSS  
+**Frontend**: React.js, Next.js, JavaScript, TypeScript, HTML, CSS, React Native  
 **DevOps & Tools**: Docker, AWS, Git, CI/CD, Linux, Nginx, Apache
+
+---
+
+### 📦 npm Packages
+
+- **@minbong/stroke-svg-text**  
+  SVG‑based stroke text component for React Native  
+  🔗 https://www.npmjs.com/package/@minbong/stroke-svg-text  
+  💻 https://github.com/smb0209/react-native-utils
 
 ---
 
@@ -77,4 +94,3 @@ Bachelor’s in Computer Engineering, Academic Credit Bank System (Korea)
 - Network Administrator (2nd Grade, Korea)
 
 ---
-
