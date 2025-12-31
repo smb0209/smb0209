@@ -31,6 +31,11 @@ Recently focusing on designing, building, and publishing reusable React Native U
   🔗 https://www.npmjs.com/package/@minbong/stroke-svg-text  
   💻 https://github.com/smb0209/react-native-utils
 
+- **@minbong/keyboard-inset**  
+  Keyboard inset, overlay, and undo/redo cursor utilities for React Native  
+  🔗 https://www.npmjs.com/package/@minbong/keyboard-inset  
+  💻 https://github.com/smb0209/react-native-utils/tree/main/packages/keyboard-inset
+
 ---
 
 **PROFESSIONAL EXPERIENCE**
